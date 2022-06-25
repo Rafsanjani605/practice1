@@ -1,0 +1,14 @@
+
+ul{
+    
+    padding: 10px 20px;
+    text-decoration: none;
+
+
+
+}
+
+ul li{
+    text-decoration: none;
+    text-overflow: clip;
+}
